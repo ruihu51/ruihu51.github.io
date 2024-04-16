@@ -195,6 +195,7 @@ sections:
       text:
         ## current courses
         - STAT 516H
+        
   - block: contact
     id: contact
     content:
