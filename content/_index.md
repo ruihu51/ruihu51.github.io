@@ -200,7 +200,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
+  - block: markdown
     id: research
     content:
       title: Research Projects
@@ -220,8 +220,14 @@ sections:
     content:
       title: Teaching
       text: |-
-        ## current courses
-        - STAT 516H
+        ## University of Massachusetts Amherst
+        ### As Teaching Assistant     
+        |:-----------------------------------------------------|------------:|
+        | R Tutoring Center                                    | Spring 2023 |
+        | Regression Analysis                                  | Spring 2023 |
+        | *Statistics II*                                | Spring 2022 & 2023, Fall 2022 |
+        | *Fundamental Concepts of Statistics*               | Spring 2021, Fall 2021 |
+
       # filters:
       #   folders:
       #     - project
@@ -249,10 +255,10 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text:
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: ruihu@umass.edu
     #   phone: 888 888 88 88
     #   appointment_url: 'https://calendly.com'
     #   address:
@@ -293,6 +299,6 @@ sections:
     #     netlify:
     #       # Enable CAPTCHA challenge to reduce spam?
     #       captcha: false
-    # design:
-    #   columns: '2'
+    design:
+      columns: '2'
 ---
