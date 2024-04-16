@@ -14,11 +14,11 @@ last_name: Hu
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Statistics PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Massachusetts Amherst
+  - name: UMass Amherst
     url: https://www.umass.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -102,10 +102,10 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ruihu51
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ruihu01/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -116,7 +116,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Biography
 
-<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"} -->
+I am currently a fourth-year PhD student in the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at the University of Massachusetts Amherst. My research mainly focuses on causal inference, survival analysis and nonparametric estimation. During my PhD studies, I am advised by [Prof. Ted Westling](). Under his guidance, I am working on several projects to develop nonparametric statistical methods for observational studies in causal inference, including heterogenous treatment effects and sensitivity analysis.
+
+{style="text-align: justify;"}
