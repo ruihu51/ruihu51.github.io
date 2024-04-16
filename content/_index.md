@@ -188,11 +188,11 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching
-      text: |-
+      text:
         ## current courses
         - STAT 516H
   - block: contact
