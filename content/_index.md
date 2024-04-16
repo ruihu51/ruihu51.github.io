@@ -222,13 +222,14 @@ sections:
       text: |-
         ### University of Massachusetts Amherst
         *As Teaching Assistant *
-        
+        {{% table %}}
         |   | |
         |:-----------------------------------------------------|------------:|
         | R Tutoring Center                                    | Spring 2023 |
         | Regression Analysis                                  | Spring 2023 |
         | *Statistics II*                                | Spring 2022 & 2023, Fall 2022 |
         | *Fundamental Concepts of Statistics*               | Spring 2021, Fall 2021 |
+        {{% /table %}}
 
       # filters:
       #   folders:
