@@ -204,17 +204,24 @@ sections:
     id: research
     content:
       title: Research Projects
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
-      filters:
-        folders:
-          - project
+      text: |-
+        ### Sensitivity Analysis to Unobserved and Residual Confounding in the Effect of Physical Activity on Mortality among Former Smokers
+        *Paper in progress*
+        
+        ### Inference for Global Measures of Treatment Effect Heterogeneity
+        *Paper in progress*
+
+      # |-
+      # #   {{% callout note %}}
+      # #   Quickly discover relevant content by [filtering publications](./publication/).
+      # #   {{% /callout %}}
+      # filters:
+      #   folders:
+      #     - project
     #     exclude_featured: true
     design:
       columns: '2'
-      view: compact
+      # view: compact
   - block: markdown
     id: teaching
     content:
@@ -235,7 +242,7 @@ sections:
         - Calculus II, Fall 2017
         - Statistical Modelling in R, Summer 2017
         - Statistical Computing, Spring 2017
-        
+
       # filters:
       #   folders:
       #     - project
@@ -266,7 +273,7 @@ sections:
       text:
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: ruihu@umass.edu
+      email: ruihu@math.umass.edu
     #   phone: 888 888 88 88
     #   appointment_url: 'https://calendly.com'
     #   address:
