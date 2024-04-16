@@ -215,20 +215,20 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching
       text: |-
         ## current courses
         - STAT 516H
-      filters:
-        folders:
-          - project
+      # filters:
+      #   folders:
+      #     - project
     #     exclude_featured: true
     design:
       columns: '2'
-      view: compact
+      # view: compact
   # - block: collection
   #   id: talks
   #   content:
