@@ -223,17 +223,19 @@ sections:
         ### University of Massachusetts Amherst
         *As Instructor*
         - STAT 516H: Statistics II (Honors Colloquium), Spring 2024
+
         *As Teaching Assistant*
-        - R Tutoring Center, *Spring 2023, Fall 2023*
-        - Regression Analysis, *Spring 2023*
-        - Statistics II, *Spring 2022 & 2023, Fall 2022*
-        - Fundamental Concepts of Statistics, *Spring 2021, Fall 2021*
+        - R Tutoring Center, Spring 2023, Fall 2023
+        - Regression Analysis, Spring 2023
+        - Statistics II, Spring 2022 & 2023, Fall 2022
+        - Fundamental Concepts of Statistics, Spring 2021, Fall 2021
         
         ### University of Illinois at Urbana-Champaign
         *As Teaching Assistant*
-        - Calculus II, *Fall 2017*
-        - Statistical Modelling in R, *Summer 2017*
-        - Statistical Computing, *Spring 2017*
+        - Calculus II, Fall 2017
+        - Statistical Modelling in R, Summer 2017
+        - Statistical Computing, Spring 2017
+        
       # filters:
       #   folders:
       #     - project
