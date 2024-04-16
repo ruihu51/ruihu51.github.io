@@ -201,20 +201,34 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-    id: featured
+    id: research
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Research Projects
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
-          - publication
-        exclude_featured: true
+          - project
+    #     exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: compact
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      text: |-
+        ## current courses
+        - STAT 516H
+      # filters:
+      #   folders:
+      #     - project
+    #     exclude_featured: true
+    # design:
+    #   columns: '2'
+    #   view: compact
   # - block: collection
   #   id: talks
   #   content:
