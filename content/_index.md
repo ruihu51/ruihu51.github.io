@@ -220,8 +220,10 @@ sections:
     content:
       title: Teaching
       text: |-
-        ## University of Massachusetts Amherst
-        ### As Teaching Assistant     
+        ### University of Massachusetts Amherst
+        *As Teaching Assistant *
+        
+        |   | |
         |:-----------------------------------------------------|------------:|
         | R Tutoring Center                                    | Spring 2023 |
         | Regression Analysis                                  | Spring 2023 |
