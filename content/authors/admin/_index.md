@@ -117,6 +117,6 @@ social:
 highlight_name: true
 ---
 
-I am currently a fourth-year PhD student in the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at the University of Massachusetts Amherst. My research mainly focuses on causal inference, survival analysis and nonparametric estimation. During my PhD studies, I am advised by [Prof. Ted Westling](). Under his guidance, I am working on several projects to develop nonparametric statistical methods for observational studies in causal inference, including heterogenous treatment effects and sensitivity analysis.
+I am currently a fourth-year PhD student in the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at the University of Massachusetts Amherst. My research mainly focuses on causal inference, survival analysis and nonparametric estimation. During my PhD studies, I am advised by [Prof. Ted Westling](). Under his guidance, I work on several projects to develop nonparametric statistical methods for observational studies in causal inference, such as nonparametric inference for heterogenous treatment effects and sensitivity analysis.
 
 {style="text-align: justify;"}
