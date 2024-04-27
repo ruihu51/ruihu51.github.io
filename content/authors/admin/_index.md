@@ -34,14 +34,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Statistics (begun 2020)
+    - course: PhD in Statistics
       institution: University of Massachusetts Amherst
+      year: 2020 - Now
     - course: MS in Statistics
       institution: University of Illinois Urbana-Champaign
-      year: 2018
+      year: 2016 - 2018
     - course: BEcon in Statistics
       institution: Central University of Finance and Economics
-      year: 2016
+      year: 2012 - 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
