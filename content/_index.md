@@ -206,9 +206,9 @@ sections:
     content: 
       title: Recent News
       text: |-
-        \[Sep 2024\] 🎉I'm excited to announce that I started my job as an assistant professor at SZTU!      
+        \[Sep 2024\] 🎉 I'm excited to announce that I started my job as an assistant professor at SZTU!      
                    
-        \[May  2024\] 🖥️I presented our ongoing work on sensitivity analysis for survival outcomes at ACIC 2024.    
+        \[May  2024\] 🖥️ I presented our ongoing work on sensitivity analysis for survival outcomes at ACIC 2024.    
     design:
       columns: '2'
 
