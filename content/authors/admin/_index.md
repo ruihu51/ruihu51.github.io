@@ -14,12 +14,12 @@ last_name: Hu
 superuser: true
 
 # Role/position/tagline
-role: Statistics PhD student
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Massachusetts Amherst
-    url: https://www.umass.edu/
+  - name: Shenzhen Technology University
+    url: https://english.sztu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,7 +27,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - causal inference
-  - sensitivity analysis
+  - machine learning
   - survival analysis
   - nonparametric estimation
 
@@ -36,7 +36,7 @@ education:
   courses:
     - course: PhD in Statistics
       institution: University of Massachusetts Amherst
-      year: 2020 - Now
+      year: 2020 - 2024
     - course: MS in Statistics
       institution: University of Illinois Urbana-Champaign
       year: 2016 - 2018
@@ -118,6 +118,6 @@ social:
 highlight_name: true
 ---
 
-Hi! I am currently a final-year PhD student in the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at the University of Massachusetts Amherst. My research mainly focuses on causal inference, survival analysis and nonparametric estimation. During my PhD studies, I am fortunate to be advised by [Prof. Ted Westling](https://tedwestling.com/). Under his guidance, I work on several projects to develop nonparametric statistical methods for observational studies in causal inference, such as nonparametric inference for heterogenous treatment effects and sensitivity analysis.
+I'm an assistant professor at the College of Big Data and Internet at [Shenzhen Technology University](https://english.sztu.edu.cn/). I obtained my PhD in Statistics at [University of Massachusetts Amherst](https://www.umass.edu/), where I was very fortunate to be advised by [Prof. Ted Westling](https://tedwestling.com/). My primary research interests lie at the intersection of causal inference, machine learning, and semiparametric efficiency theory. Some specific topics I have worked on include nonparametric inference for heterogeneous treatment effects and sensitivity analyses for time-to-event data in observational studies. I am also interested in developing nonparametric causal inference tools for complex longitudinal data, drawing inspiration from real-world business challenges.
 
 {style="text-align: justify;"}
