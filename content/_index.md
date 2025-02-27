@@ -200,6 +200,16 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
+
+  - block: markdown
+    id: news
+    content: 
+      title: Recent News
+      text: test
+      date: 2023-10-26
+    design:
+      columns: '2'
+
   - block: markdown
     id: research
     content:
@@ -276,7 +286,7 @@ sections:
       text:
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: ruihu@math.umass.edu
+      email: hurui@sztu.edu.cn
     #   phone: 888 888 88 88
     #   appointment_url: 'https://calendly.com'
     #   address:
