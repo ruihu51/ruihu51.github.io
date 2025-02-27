@@ -15,7 +15,7 @@ main:
   #   weight: 30
   - name: News
     url: '#news'
-    weight: 15
+    weight: -9999
   - name: Research
     url: '#research'
     weight: 20

@@ -215,7 +215,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title: Research Projects
+      title: Working Paper
       text: |-
         ### Sensitivity Analysis to Unobserved and Residual Confounding in the Effect of Physical Activity on Mortality among Former Smokers
         *Paper in progress*
