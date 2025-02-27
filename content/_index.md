@@ -205,8 +205,10 @@ sections:
     id: news
     content: 
       title: Recent News
-      text: test
-      date: 2023-10-26
+      text: 
+        i am happ to announce
+        eiwowjrpt
+        fdsagfh
     design:
       columns: '2'
 
