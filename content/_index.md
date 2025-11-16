@@ -206,7 +206,8 @@ sections:
     content: 
       title: Recent News
       text: |-
-        \[Nov 2025\] Our new paper on nonparametric sensitivity analysis for survival outcomes is on [arXiv](https://arxiv.org/abs/2511.01412).
+        \[Nov 2025\] Our new paper on nonparametric sensitivity analysis for survival outcomes is on [arXiv](https://arxiv.org/abs/2511.01412). 
+            
         \[Sep 2024\] 🎉 I'm excited to announce that I started my job as an assistant professor at SZTU!      
                    
         \[May  2024\] 🖥️ I presented our ongoing work on sensitivity analysis for survival outcomes at ACIC 2024.    
