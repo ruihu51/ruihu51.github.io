@@ -219,8 +219,8 @@ sections:
     content:
       title: Submitted or working paper
       text: |-
-        Hu, R. and Westling, T. (2025). Nonparametric Sensitivity Analysis for Unobserved Confounding with Survival Outcomes. arXiv:[2511.01412](https://arxiv.org/abs/2511.01412)
-
+        Hu, R. and Westling, T. (2025). Nonparametric Sensitivity Analysis for Unobserved Confounding with Survival Outcomes. arXiv:[2511.01412](https://arxiv.org/abs/2511.01412)     
+               
         Hu, R., Staudenmayer, J., Matthews, C., and Westling, T. (2024). Sensitivity of the Effect of Physical Activity on Mortality among Former Smokers to Unobserved Confounding and Confounder Misclassification. 
 
 
