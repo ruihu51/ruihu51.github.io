@@ -202,40 +202,39 @@ sections:
   #     view: card
 
   - block: markdown
-  id: news
-  content:
-    title: Recent news
-    text: |-
-      [Oct 2026] Our paper on sensitivity analysis for unobserved confounding with survival outcomes was accepted at *Biometrics*!
+    id: news
+    content:
+      title: Recent news
+      text: |-
+        [Oct 2026] Our paper on sensitivity analysis for unobserved confounding with survival outcomes was accepted at *Biometrics*!
 
-      [Nov 2025] Our new paper on nonparametric sensitivity analysis for survival outcomes is on [arXiv](https://arxiv.org/abs/2511.01412).
+        [Nov 2025] Our new paper on nonparametric sensitivity analysis for survival outcomes is on [arXiv](https://arxiv.org/abs/2511.01412).
 
-      [Sep 2024] 🎉 I'm excited to announce that I started my job as an assistant professor at SZTU!
+        [Sep 2024] 🎉 I'm excited to announce that I started my job as an assistant professor at SZTU!
 
-      [May 2024] 🖥️ I presented our ongoing work on sensitivity analysis for survival outcomes at ACIC 2024.
-  design:
-    columns: '2'
+        [May 2024] 🖥️ I presented our ongoing work on sensitivity analysis for survival outcomes at ACIC 2024.
+    design:
+      columns: '2'
 
+  - block: markdown
+    id: publication
+    content:
+      title: Publications
+      text: |-
+        Hu, R. and Westling, T. (2026). Nonparametric Sensitivity Analysis for Unobserved Confounding with Survival Outcomes. *Biometrics*, accepted. arXiv:[2511.01412](https://arxiv.org/abs/2511.01412)
+    design:
+      columns: '2'
 
-- block: markdown
-  id: publication
-  content:
-    title: Publications
-    text: |-
-      Hu, R. and Westling, T. (2026). Nonparametric Sensitivity Analysis for Unobserved Confounding with Survival Outcomes. *Biometrics*, accepted. arXiv:[2511.01412](https://arxiv.org/abs/2511.01412)
-  design:
-    columns: '2'
+  - block: markdown
+    id: research
+    content:
+      title: Submitted or working paper
+      text: |-
+        Hu, R., Staudenmayer, J., Matthews, C., and Westling, T. (2024). Sensitivity of the Effect of Physical Activity on Mortality among Former Smokers to Unobserved Confounding and Confounder Misclassification.
+    design:
+      columns: '2'
+      # view: compact
 
-
-- block: markdown
-  id: research
-  content:
-    title: Submitted or working paper
-    text: |-
-      Hu, R., Staudenmayer, J., Matthews, C., and Westling, T. (2024). Sensitivity of the Effect of Physical Activity on Mortality among Former Smokers to Unobserved Confounding and Confounder Misclassification.
-  design:
-    columns: '2'
-    # view: compact
   - block: markdown
     id: teaching
     content:
@@ -250,20 +249,20 @@ sections:
         - Regression Analysis, Spring 2023
         - Statistics II, Spring 2022 & 2023, Fall 2022
         - Fundamental Concepts of Statistics, Spring 2021, Fall 2021
-        
+
         ### University of Illinois at Urbana-Champaign
         *As a teaching assistant*
         - Calculus II, Fall 2017
         - Statistical Modelling in R, Summer 2017
         - Statistical Computing, Spring 2017
-
-      # filters:
-      #   folders:
-      #     - project
-    #     exclude_featured: true
     design:
       columns: '2'
       # view: compact
+
+  # filters:
+  #   folders:
+  #     - project
+  #     exclude_featured: true
   # - block: collection
   #   id: talks
   #   content:
