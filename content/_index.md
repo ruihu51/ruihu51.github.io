@@ -222,8 +222,11 @@ sections:
     content:
     title: Publications
     text: |-
-    
+
       Hu, R. and Westling, T. (2026). Nonparametric Sensitivity Analysis for Unobserved Confounding with Survival Outcomes. *Biometrics*, accepted. arXiv:[2511.01412](https://arxiv.org/abs/2511.01412)
+
+    design:
+      columns: '2'
 
   - block: markdown
     id: research
@@ -233,19 +236,6 @@ sections:
                
       Hu, R., Staudenmayer, J., Matthews, C., and Westling, T. (2024). Sensitivity of the Effect of Physical Activity on Mortality among Former Smokers to Unobserved Confounding and Confounder Misclassification. 
 
-
-
-# Recent research suggests that physical activity is associated with reduced risk of mortality due to respiratory disease and cancer among former smokers after adjusting for common causes using data from the NIH-AARP Study. This study measured former smoking behavior using self-reported average number of cigarettes smoked per day (CPD), which may have measurement error and may not fully reflect previous smoking behavior as length of time spent smoking was not recorded. As previous smoking behavior causes respiratory disease and lung cancer, these associations may be biased estimates of the true causal effects in either of these cases. Determining whether these effects are causal is important, since former smokers want to know if they can reduce their risk of these diseases by exercising more. We compare two types of causal sensitivity analyses: to measurement error in CPD, and to unobserved confounding. We find that the effect of physical activity on respiratory disease mortality is not explained away by a moderate amount of unobserved confounding or high measurement error. The effect of physical activity on lung cancer is explained away by a small amount of unobserved confounding, but not by measurement error. We hypothesize that the robustness to measurement error could be due to assumptions of the measurement error model, and we discuss the implications of these results for using standard measurement error models in sensitivity analyses.
-        
-
-      # |-
-      # #   {{% callout note %}}
-      # #   Quickly discover relevant content by [filtering publications](./publication/).
-      # #   {{% /callout %}}
-      # filters:
-      #   folders:
-      #     - project
-    #     exclude_featured: true
     design:
       columns: '2'
       # view: compact
