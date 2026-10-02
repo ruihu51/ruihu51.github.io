@@ -206,7 +206,7 @@ sections:
     content:
       title: Recent news
       text: |-
-        [Oct 2026] Our paper on sensitivity analysis for unobserved confounding with survival outcomes was accepted at *Biometrics!*
+        [Oct 2026] Our paper on nonparametric sensitivity analysis for survival outcomes was accepted at *Biometrics!*
 
         [Nov 2025] Our new paper on nonparametric sensitivity analysis for survival outcomes is on [arXiv](https://arxiv.org/abs/2511.01412).
 
