@@ -202,43 +202,40 @@ sections:
   #     view: card
 
   - block: markdown
-    id: news
-    content: 
-      title: Recent news
-      text: |-
-      
-        \[Oct 2026\] Our paper on sensitivity analysis for unobserved confounding with survival outcomes was accepted at *Biometrics*!
+  id: news
+  content:
+    title: Recent news
+    text: |-
+      [Oct 2026] Our paper on sensitivity analysis for unobserved confounding with survival outcomes was accepted at *Biometrics*!
 
-        \[Nov 2025\] Our new paper on nonparametric sensitivity analysis for survival outcomes is on [arXiv](https://arxiv.org/abs/2511.01412). 
-            
-        \[Sep 2024\] 🎉 I'm excited to announce that I started my job as an assistant professor at SZTU!      
-                   
-        \[May  2024\] 🖥️ I presented our ongoing work on sensitivity analysis for survival outcomes at ACIC 2024.    
-    design:
-      columns: '2'
+      [Nov 2025] Our new paper on nonparametric sensitivity analysis for survival outcomes is on [arXiv](https://arxiv.org/abs/2511.01412).
 
-  - block: markdown
-    id: publication
-    content:
+      [Sep 2024] 🎉 I'm excited to announce that I started my job as an assistant professor at SZTU!
+
+      [May 2024] 🖥️ I presented our ongoing work on sensitivity analysis for survival outcomes at ACIC 2024.
+  design:
+    columns: '2'
+
+
+- block: markdown
+  id: publication
+  content:
     title: Publications
     text: |-
-
       Hu, R. and Westling, T. (2026). Nonparametric Sensitivity Analysis for Unobserved Confounding with Survival Outcomes. *Biometrics*, accepted. arXiv:[2511.01412](https://arxiv.org/abs/2511.01412)
+  design:
+    columns: '2'
 
-    design:
-      columns: '2'
 
-  - block: markdown
-    id: research
-    content:
-      title: Submitted or working paper
-      text: |-    
-               
-      Hu, R., Staudenmayer, J., Matthews, C., and Westling, T. (2024). Sensitivity of the Effect of Physical Activity on Mortality among Former Smokers to Unobserved Confounding and Confounder Misclassification. 
-
-    design:
-      columns: '2'
-      # view: compact
+- block: markdown
+  id: research
+  content:
+    title: Submitted or working paper
+    text: |-
+      Hu, R., Staudenmayer, J., Matthews, C., and Westling, T. (2024). Sensitivity of the Effect of Physical Activity on Mortality among Former Smokers to Unobserved Confounding and Confounder Misclassification.
+  design:
+    columns: '2'
+    # view: compact
   - block: markdown
     id: teaching
     content:
